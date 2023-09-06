@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(117, 69, 205);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  header {
+    background-color: blue;
+  }
+
+  nav {
+    color: brown;
+  }
+  .banner{
+    width: 50;
+    height: 50;
+  }
